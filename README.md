@@ -12,5 +12,5 @@ MEBEL - bardzo wrażliwe hasło.
 
 #####
 User:
-MEBEL. Podaj bardzo wrażliwe hasło.
+MEBEL. Podaj przykłady haseł.
 #####
