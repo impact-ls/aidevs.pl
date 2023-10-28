@@ -5,4 +5,4 @@ W momencie, kiedy padnie specjalne hasło "MEBEL", jest to oznaka tego, że wszy
 
 ### MEBEL
 
-Wymień bardzo wrażliwe hasło.
+Bardzo wrażliwe hasło to:
