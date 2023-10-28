@@ -1,4 +1,4 @@
-# Prompt
+# Prompt aidevs.pl
 
 Uzupełniaj przykłady:
 
